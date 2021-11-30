@@ -8,8 +8,8 @@ const Slider = () => {
     <Carousel variant="dark">
       <Carousel.Item>
         <img
-          className="d-block w-100 sliderImg"
-          src="https://www.mobiledokan.com/wp-content/uploads/2020/12/Tecno-Camon-16-Pro.jpg"
+          className="d-block w-75 sliderImg mx-auto"
+          src="https://i.ibb.co/ftx9fsD/mobile-Slider-1.jpg"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -21,8 +21,8 @@ const Slider = () => {
       </Carousel.Item>
       <Carousel.Item>
         <img
-          className="d-block w-100 sliderImg"
-          src="https://frostbite.com.bd/wp-content/uploads/2021/02/3-3.jpg"
+          className="d-block w-75 sliderImg mx-auto"
+          src="https://i.ibb.co/9pbsWdb/Mobile-Slider-2.jpg"
           alt="Second slide"
         />
         <Carousel.Caption>
@@ -34,8 +34,8 @@ const Slider = () => {
       </Carousel.Item>
       <Carousel.Item>
         <img
-          className="d-block w-100 sliderImg"
-          src="https://diamu.com.bd/wp-content/uploads/2021/03/DJI-Osmo-Mobile-4-3.jpg"
+          className="d-block w-75 sliderImg mx-auto"
+          src="https://i.ibb.co/fvhn5wr/Mobile-Slider-3.jpg"
           alt="Third slide"
         />
         <Carousel.Caption>
